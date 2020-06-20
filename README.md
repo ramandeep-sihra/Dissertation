@@ -1,2 +1,2 @@
 # Dissertation
-Data analyst and research conducted on the potential risks of payday loans
+Data analysis and research conducted on the potential risks of payday loans.
